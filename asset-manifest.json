@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clockweb/static/css/main.31acfcf0.css",
+    "main.js": "/clockweb/static/js/main.5a6eb5c3.js",
+    "static/media/dseg14-classic-400-normal.woff": "/clockweb/static/media/dseg14-classic-400-normal.a225289f7ecae85a78ff.woff",
+    "static/media/dseg14-classic-400-normal.woff2": "/clockweb/static/media/dseg14-classic-400-normal.cb0d5ce3383d9317416b.woff2",
+    "index.html": "/clockweb/index.html",
+    "main.31acfcf0.css.map": "/clockweb/static/css/main.31acfcf0.css.map",
+    "main.5a6eb5c3.js.map": "/clockweb/static/js/main.5a6eb5c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31acfcf0.css",
+    "static/js/main.5a6eb5c3.js"
+  ]
+}
